@@ -1,4 +1,4 @@
-KerbalAlarmClock - 3.4.0.0
+KerbalAlarmClock - 3.5.0.0
 --------------------------
 How to stop Jeb from flying past his destination at Warp speed.
 
@@ -15,7 +15,7 @@ IF YOU WANT TO MAINTAIN YOUR SETTINGS DO NOT COPY THE CONFIG.XML FILE OVER
 
 Installing the plugin involves copying the plugin files into the correct location in the KSP aplication folder
 1. Extract the Zip file you have downloaded to a temporary Location
-2. Open the Extracted folder structure and open the KerbalAlarmClock_v3.4.0.0 Folder
+2. Open the Extracted folder structure and open the KerbalAlarmClock_v3.5.0.0 Folder
 3. Inside this you will find a GameData folder which contains all the content you will need
 4. Open another window to your KSP application folder - We'll call this <KSP_OS>
 5. Copy the Contents of the extracted GameData folder to the <KSP_OS>\GameData Folder
@@ -28,7 +28,17 @@ If there are errors in loading the config you can delete the "<KSP_OS>\GameData\
 LICENSE
 This work is licensed under an MIT license as outlined at the OSI site. Visit the documentation site for more details and Attribution
 
+ATTRIBUTION-SOUNDS
+Included Sounds are from freesfx.co.uk (http://www.freesfx.co.uk). EULA can be found here: http://www.freesfx.co.uk/info/eula/
+
 VERSION HISTORY
+Version 3.5.0.0		-	KSP Version: 1.0.5
+- Fixed issue with dropdown pages and alignment
+- Fixed issue with settings bleed (Issue #152)
+- Solved limit on Target Distance Alamrs - for solar orbits (Issue #151)
+- Updated KERWrapper to better handle the KER window not being open (Issue #150)
+- Added AngleRenderer for ejection angle displays of TWP Alarms
+
 Version 3.4.0.0		-	KSP Version: 1.0.4
 - Added Audio to Alarms - ie play a sound when an alarm fires (Issue #4)
 - Added repeat option to Ap/PE alarms (Issue #128)
