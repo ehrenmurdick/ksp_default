@@ -17,6 +17,8 @@ local targetPitch is 0.
 local maxTWR is 0.
 local maxT is 0.
 local finalTVAL is 0.
+local turnstart is 2500.
+local turnend is 45000.
 
 local targetHeading is inc + 90.
 
@@ -42,14 +44,14 @@ until runmode = 0 { //Run until we end the program
     when stage:liquidfuel < 2880 then { stage. }
     lock steering to heading (targetHeading,90). //Straight up.
       set TVAL to 1.
-      if SHIP:ALTITUDE > 5000 {
+      if SHIP:ALTITUDE > turnstart {
         //Once altitude is higher than 10km, go to Gravity Turn mode
         set runmode to 3.
       }
   } //Make sure you always close out your if statements.
 
   else if runmode = 3 { //Gravity turn
-    set targetPitch to max( 5, 90 * (1 - (ALT:RADAR - 5000) / 40000)).
+    set targetPitch to max( 5, 90 * (1 - (ALT:RADAR - turnstart) / (turnend - turnstart))).
       //Pitch over gradually until levelling out to 5 degrees at 50km
       lock steering to heading ( targetHeading, targetPitch). //Heading 90' (East), then target pitch
       set TVAL to 1.
@@ -66,7 +68,7 @@ until runmode = 0 { //Run until we end the program
     set runmode to 0.
   }
 
-  set maxTWR to 1.5 + ALT:RADAR / 45000.
+  set maxTWR to 1.5 + ALT:RADAR / turnend.
 
 
   set maxT to 1 / (TWR / maxTWR).

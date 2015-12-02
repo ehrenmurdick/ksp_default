@@ -2,7 +2,7 @@ ship = Curiosity
 version = 1.0.5
 description = 
 type = VAB
-size = 7.83356,25.81916,7.078354
+size = 7.83356,25.80754,7.078354
 PART
 {
 	part = probeCoreOcto_4294214540
