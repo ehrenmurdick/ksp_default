@@ -436,7 +436,7 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 1.0.5
-		UT = 666981.47115943
+		UT = 667914.969665471
 		activeVessel = 18
 		mapViewFiltering = -1026
 		VESSEL
@@ -31816,33 +31816,33 @@ GAME
 			landed = True
 			landedAt = 
 			splashed = False
-			met = 745.010628134012
+			met = 1678.50913417561
 			lct = 666236.460531296
-			lastUT = 666981.47115943
+			lastUT = 667914.969665471
 			root = 0
-			lat = -0.113841627293583
-			lon = 285.145214045636
-			alt = 65.3078693286516
-			hgt = 0.8712886
-			nrm = -3.498793E-05,0.9999997,0.0009603798
-			rot = -0.3784847,-0.6755612,0.5974753,0.2083021
-			CoM = -0.0004220679,-0.3802048,-0.008675501
+			lat = -0.113839587515187
+			lon = 285.145166781056
+			alt = 65.3081146006007
+			hgt = 0.871228
+			nrm = -1.751631E-05,0.999997,0.002499819
+			rot = -0.5425679,-0.5806395,0.4539292,0.4030214
+			CoM = -0.0005670339,-0.380313,-0.008782953
 			stg = 1
 			prst = False
 			ref = 2033183152
 			ctrl = True
-			cPch = 0.2131591
-			cHdg = -1.288
+			cPch = 0.3451592
+			cHdg = -0.7519998
 			cMod = 0
 			ORBIT
 			{
-				SMA = 300814.821039824
-				ECC = 0.994798412527254
-				INC = 0.113852162556858
-				LPE = 90.7966080642892
-				LAN = 86.7960121541961
-				MNA = 3.14159347788409
-				EPH = 666981.47115943
+				SMA = 300814.772637612
+				ECC = 0.994798734412253
+				INC = 0.113840065780871
+				LPE = 90.1631936303
+				LAN = 103.024202971712
+				MNA = 3.14159381931816
+				EPH = 667914.969665471
 				REF = 1
 			}
 			PART
@@ -31867,9 +31867,9 @@ GAME
 				attN = bottom, 1
 				attN = top, 25
 				mass = 0.1
-				temp = 309.242929155991
-				tempExt = 309.21377031979
-				tempExtUnexp = 309.213785106954
+				temp = 309.829163254002
+				tempExt = 309.985162836093
+				tempExtUnexp = 309.985125870314
 				expt = 0
 				state = 0
 				connected = True
@@ -32120,7 +32120,7 @@ GAME
 								Frame = World
 								Orientation = 0,0,0,1
 								Altitude = NaN
-								TimeStamp = 666981.47115943
+								TimeStamp = 667914.969665471
 								ExtraDelay = 0
 								CmdGuid = 88fcbc5d-569a-4d10-bc6e-7ebadcfed12d
 							}
@@ -32218,7 +32218,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 0.0299000021629036
+					amount = 6.57315836900484
 					maxAmount = 10
 					flowState = True
 					isTweakable = True
@@ -32249,9 +32249,9 @@ GAME
 				attN = top, 0
 				attN = bottom, 20
 				mass = 0.075
-				temp = 309.242931669635
-				tempExt = 309.216793068164
-				tempExtUnexp = 309.216807160598
+				temp = 309.822596289113
+				tempExt = 309.861522401173
+				tempExtUnexp = 309.861500616135
 				expt = 0.5
 				state = 0
 				connected = True
@@ -32358,9 +32358,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.001
-				temp = 309.257308309297
-				tempExt = 309.234819929691
-				tempExtUnexp = 309.234831910887
+				temp = 309.926946041714
+				tempExt = 310.022202408381
+				tempExtUnexp = 310.022176246
 				expt = 0.5
 				state = 0
 				connected = True
@@ -32465,9 +32465,9 @@ GAME
 				sym = 5
 				srfN = srfAttach, 2
 				mass = 0.05
-				temp = 309.263571665603
-				tempExt = 309.238642776433
-				tempExtUnexp = 309.238656726136
+				temp = 309.957937791215
+				tempExt = 310.139289813718
+				tempExtUnexp = 310.139250374444
 				expt = 0.5
 				state = 0
 				connected = True
@@ -32489,7 +32489,7 @@ GAME
 					name = ModuleWheel
 					isEnabled = True
 					brakeTorque = 180
-					brakesEngaged = False
+					brakesEngaged = True
 					steeringLocked = False
 					isDamaged = False
 					invertSteering = False
@@ -32760,9 +32760,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.001
-				temp = 309.259677403666
-				tempExt = 309.237272680513
-				tempExtUnexp = 309.237284523231
+				temp = 309.893458284219
+				tempExt = 309.984750052502
+				tempExtUnexp = 309.984723624681
 				expt = 0.5
 				state = 0
 				connected = True
@@ -32867,9 +32867,9 @@ GAME
 				sym = 3
 				srfN = srfAttach, 4
 				mass = 0.05
-				temp = 309.266575779989
-				tempExt = 309.241405498004
-				tempExtUnexp = 309.241419372614
+				temp = 309.911767492373
+				tempExt = 310.063256511731
+				tempExtUnexp = 310.063225104531
 				expt = 0.5
 				state = 0
 				connected = True
@@ -32891,7 +32891,7 @@ GAME
 					name = ModuleWheel
 					isEnabled = True
 					brakeTorque = 180
-					brakesEngaged = False
+					brakesEngaged = True
 					steeringLocked = False
 					isDamaged = False
 					invertSteering = False
@@ -33162,9 +33162,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.001
-				temp = 309.256015533539
-				tempExt = 309.233251816394
-				tempExtUnexp = 309.233264226031
+				temp = 309.946703360378
+				tempExt = 310.06030329222
+				tempExtUnexp = 310.060276267512
 				expt = 0.5
 				state = 0
 				connected = True
@@ -33269,9 +33269,9 @@ GAME
 				sym = 9
 				srfN = srfAttach, 6
 				mass = 0.05
-				temp = 309.26195387811
-				tempExt = 309.237119737858
-				tempExtUnexp = 309.237133756867
+				temp = 309.983200859889
+				tempExt = 310.166674167655
+				tempExtUnexp = 310.166634968906
 				expt = 0.5
 				state = 0
 				connected = True
@@ -33293,7 +33293,7 @@ GAME
 					name = ModuleWheel
 					isEnabled = True
 					brakeTorque = 180
-					brakesEngaged = False
+					brakesEngaged = True
 					steeringLocked = False
 					isDamaged = False
 					invertSteering = False
@@ -33564,9 +33564,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.001
-				temp = 309.259682612055
-				tempExt = 309.237078052225
-				tempExtUnexp = 309.23709054793
+				temp = 309.853865132093
+				tempExt = 309.955698010032
+				tempExtUnexp = 309.955668258979
 				expt = 0.5
 				state = 0
 				connected = True
@@ -33671,9 +33671,9 @@ GAME
 				sym = 7
 				srfN = srfAttach, 8
 				mass = 0.05
-				temp = 309.266599017697
-				tempExt = 309.241420084029
-				tempExtUnexp = 309.241434302761
+				temp = 309.855793006304
+				tempExt = 310.0238482747
+				tempExtUnexp = 310.023809802137
 				expt = 0.5
 				state = 0
 				connected = True
@@ -33695,7 +33695,7 @@ GAME
 					name = ModuleWheel
 					isEnabled = True
 					brakeTorque = 180
-					brakesEngaged = False
+					brakesEngaged = True
 					steeringLocked = False
 					isDamaged = False
 					invertSteering = False
@@ -33964,9 +33964,9 @@ GAME
 				sym = 11
 				srfN = srfAttach, 1
 				mass = 0.05
-				temp = 309.246283181702
-				tempExt = 309.222994441397
-				tempExtUnexp = 309.22300755803
+				temp = 309.828385536705
+				tempExt = 309.96703238657
+				tempExtUnexp = 309.967003494388
 				expt = 0.5
 				state = 0
 				connected = True
@@ -33988,7 +33988,7 @@ GAME
 					name = ModuleWheel
 					isEnabled = True
 					brakeTorque = 180
-					brakesEngaged = False
+					brakesEngaged = True
 					steeringLocked = False
 					isDamaged = False
 					invertSteering = False
@@ -34257,9 +34257,9 @@ GAME
 				sym = 10
 				srfN = srfAttach, 1
 				mass = 0.05
-				temp = 309.246269787662
-				tempExt = 309.222969380649
-				tempExtUnexp = 309.222982221657
+				temp = 309.82074894233
+				tempExt = 309.95325687248
+				tempExtUnexp = 309.953226014534
 				expt = 0.5
 				state = 0
 				connected = True
@@ -34281,7 +34281,7 @@ GAME
 					name = ModuleWheel
 					isEnabled = True
 					brakeTorque = 180
-					brakesEngaged = False
+					brakesEngaged = True
 					steeringLocked = False
 					isDamaged = False
 					invertSteering = False
@@ -34550,9 +34550,9 @@ GAME
 				srfN = srfAttach, 1
 				attN = bottom, -1
 				mass = 0.005
-				temp = 309.238052782724
-				tempExt = 309.213156739303
-				tempExtUnexp = 309.213171446949
+				temp = 309.844514205468
+				tempExt = 309.933992369838
+				tempExtUnexp = 309.933974077249
 				expt = 0.5
 				state = 0
 				connected = True
@@ -34887,9 +34887,9 @@ GAME
 				sym = 14
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = 309.239296277833
-				tempExt = 309.216730098188
-				tempExtUnexp = 309.216743547801
+				temp = 309.82755670573
+				tempExt = 309.844714043412
+				tempExtUnexp = 309.844692039584
 				expt = 0.5
 				state = 0
 				connected = True
@@ -34975,7 +34975,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 23.3680514201122
+					amount = 86.3428356541959
 					maxAmount = 100
 					flowState = True
 					isTweakable = True
@@ -35005,9 +35005,9 @@ GAME
 				sym = 13
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = 309.239303278563
-				tempExt = 309.216736307185
-				tempExtUnexp = 309.216749825461
+				temp = 309.827797100186
+				tempExt = 309.845007780728
+				tempExtUnexp = 309.844985236811
 				expt = 0.5
 				state = 0
 				connected = True
@@ -35093,7 +35093,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 23.3680514201122
+					amount = 86.3428356541959
 					maxAmount = 100
 					flowState = True
 					isTweakable = True
@@ -35123,9 +35123,9 @@ GAME
 				sym = 16
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = 309.23926659523
-				tempExt = 309.216581919766
-				tempExtUnexp = 309.216595223279
+				temp = 309.827351617937
+				tempExt = 309.844462061919
+				tempExtUnexp = 309.844440493684
 				expt = 0.5
 				state = 0
 				connected = True
@@ -35211,7 +35211,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 23.3680514201122
+					amount = 86.3428356541959
 					maxAmount = 100
 					flowState = True
 					isTweakable = True
@@ -35241,9 +35241,9 @@ GAME
 				sym = 15
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = 309.239273354892
-				tempExt = 309.216587492435
-				tempExtUnexp = 309.216600857344
+				temp = 309.827593915968
+				tempExt = 309.844759542998
+				tempExtUnexp = 309.844737450964
 				expt = 0.5
 				state = 0
 				connected = True
@@ -35329,7 +35329,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 23.3680514201122
+					amount = 86.3428356541959
 					maxAmount = 100
 					flowState = True
 					isTweakable = True
@@ -35358,9 +35358,9 @@ GAME
 				attm = 1
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = 309.240481399981
-				tempExt = 309.214248828105
-				tempExtUnexp = 309.214263336116
+				temp = 309.815933559698
+				tempExt = 309.838349939858
+				tempExtUnexp = 309.838330287877
 				expt = 0.5
 				state = 0
 				connected = True
@@ -35595,9 +35595,9 @@ GAME
 				attm = 1
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = 309.240636545861
-				tempExt = 309.214322315127
-				tempExtUnexp = 309.214336821992
+				temp = 309.818740735908
+				tempExt = 309.85576778486
+				tempExtUnexp = 309.855747412124
 				expt = 0.5
 				state = 0
 				connected = True
@@ -35832,9 +35832,9 @@ GAME
 				attm = 1
 				srfN = srfAttach, 1
 				mass = 0.005
-				temp = 309.244906698379
-				tempExt = 309.216549355388
-				tempExtUnexp = 309.216559760692
+				temp = 309.815252284768
+				tempExt = 309.879051157971
+				tempExtUnexp = 309.879029769849
 				expt = 0.5
 				state = 0
 				connected = True
@@ -36071,9 +36071,9 @@ GAME
 				attN = top, 1
 				attN = bottom, -1
 				mass = 0.001
-				temp = 309.24336893865
-				tempExt = 309.225966302532
-				tempExtUnexp = 309.225976647769
+				temp = 309.761233049037
+				tempExt = 309.768668478925
+				tempExtUnexp = 309.76865139426
 				expt = 0.5
 				state = 0
 				connected = True
@@ -36178,9 +36178,9 @@ GAME
 				sym = 22
 				srfN = srfAttach, 20
 				mass = 0.05
-				temp = 309.2453243418
-				tempExt = 309.23319224548
-				tempExtUnexp = 309.233197644374
+				temp = 309.820303688614
+				tempExt = 309.838039506473
+				tempExtUnexp = 309.838019780208
 				expt = 0
 				state = 0
 				connected = True
@@ -36309,9 +36309,9 @@ GAME
 				sym = 21
 				srfN = srfAttach, 20
 				mass = 0.05
-				temp = 309.2453243418
-				tempExt = 309.23319224548
-				tempExtUnexp = 309.233197644374
+				temp = 309.820303688614
+				tempExt = 309.838039506473
+				tempExtUnexp = 309.838019780208
 				expt = 0
 				state = 0
 				connected = True
@@ -36439,9 +36439,9 @@ GAME
 				attm = 1
 				srfN = srfAttach, 1
 				mass = 0.03
-				temp = 309.244821149806
-				tempExt = 309.223784818115
-				tempExtUnexp = 309.223790123384
+				temp = 309.828477205956
+				tempExt = 309.938218842848
+				tempExtUnexp = 309.938192675562
 				expt = 0.5
 				state = 0
 				connected = True
@@ -36541,7 +36541,7 @@ GAME
 						file
 						{
 							filename = rover.ks
-							line = @lazyglobal&#32;off.&#10;&#10;clearscreen.&#10;&#10;local&#32;tolerance&#32;is&#32;5.&#10;&#10;local&#32;location&#32;is&#32;ship:geoposition.&#10;local&#32;dest&#32;is&#32;latlng(location:lat&#32;+&#32;destLat,&#32;location:lng&#32;+&#32;destlng).&#10;&#10;&#10;local&#32;pid&#32;is&#32;pidloop().&#10;local&#32;runmode&#32;is&#32;0.&#10;&#10;local&#32;minspeed&#32;is&#32;0.5.&#10;local&#32;maxspeed&#32;is&#32;8.&#10;&#10;&#10;set&#32;pid:maxoutput&#32;to&#32;1.&#10;set&#32;pid:minoutput&#32;to&#32;-1.&#10;&#10;brakes&#32;off.&#10;&#10;&#10;function&#32;eta&#32;&#123;&#10;&#32;&#32;parameter&#32;dist.&#10;&#32;&#32;local&#32;seconds&#32;is&#32;dist&#32;&#47;&#32;pid:setpoint.&#10;&#10;&#32;&#32;return&#32;round(seconds,&#32;1)&#32;+&#32;"s".&#10;&#125;&#10;&#10;&#10;until&#32;dest:distance&#32;<&#32;tolerance&#32;&#123;&#10;&#32;&#32;lock&#32;wheelthrottle&#32;to&#32;pid:update(time:seconds,&#32;groundspeed).&#10;&#32;&#32;lock&#32;wheelsteering&#32;to&#32;dest:heading.&#10;&#10;&#32;&#32;set&#32;pid:setpoint&#32;to&#32;max(minspeed,&#32;min(maxspeed,&#32;dest:distance&#32;&#47;&#32;5)).&#10;&#10;&#10;&#32;&#32;print&#32;"DEST&#32;LAT:&#32;"&#32;+&#32;round(dest:lat,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at&#32;(5,2).&#10;&#32;&#32;print&#32;"DEST&#32;LNG:&#32;"&#32;+&#32;round(dest:lng,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at&#32;(5,3).&#10;&#32;&#32;print&#32;"CURR&#32;LAT:&#32;"&#32;+&#32;round(ship:geoposition:lat,&#32;3)&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;4).&#10;&#32;&#32;print&#32;"CURR&#32;LNG:&#32;"&#32;+&#32;round(ship:geoposition:lng,&#32;3)&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;5).&#10;&#32;&#32;print&#32;"DIST:&#32;&#32;&#32;&#32;&#32;"&#32;+&#32;round(dest:distance,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;7).&#10;&#32;&#32;print&#32;"BEARING:&#32;&#32;"&#32;+&#32;round(dest:heading,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;8).&#10;&#32;&#32;print&#32;"TGT&#32;SPD:&#32;&#32;"&#32;+&#32;round(pid:setpoint,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;9).&#10;&#32;&#32;print&#32;"ETA:&#32;&#32;&#32;&#32;&#32;&#32;"&#32;+&#32;eta(dest:distance)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at&#32;(5,&#32;10).&#10;&#10;&#32;&#32;if&#32;ship:resources[0]:amount&#32;<&#32;0.1&#32;*&#32;ship:resources[0]:capacity&#32;&#123;&#10;&#32;&#32;&#32;&#32;break.&#10;&#32;&#32;&#125;&#10;&#125;&#10;&#10;&#10;unlock&#32;all.&#10;brakes&#32;on.&#10;
+							line = @lazyglobal&#32;off.&#10;&#10;clearscreen.&#10;&#10;local&#32;tolerance&#32;is&#32;5.&#10;&#10;local&#32;location&#32;is&#32;ship:geoposition.&#10;local&#32;dest&#32;is&#32;latlng(location:lat&#32;+&#32;destLat,&#32;location:lng&#32;+&#32;destlng).&#10;&#10;&#10;local&#32;pid&#32;is&#32;pidloop().&#10;local&#32;runmode&#32;is&#32;0.&#10;&#10;local&#32;minspeed&#32;is&#32;0.5.&#10;local&#32;maxspeed&#32;is&#32;4.&#10;&#10;&#10;set&#32;pid:maxoutput&#32;to&#32;1.&#10;set&#32;pid:minoutput&#32;to&#32;-1.&#10;&#10;brakes&#32;off.&#10;&#10;&#10;function&#32;eta&#32;&#123;&#10;&#32;&#32;parameter&#32;dist.&#10;&#32;&#32;local&#32;seconds&#32;is&#32;dist&#32;&#47;&#32;pid:setpoint.&#10;&#10;&#32;&#32;return&#32;round(seconds,&#32;1)&#32;+&#32;"s".&#10;&#125;&#10;&#10;&#10;until&#32;dest:distance&#32;<&#32;tolerance&#32;&#123;&#10;&#32;&#32;lock&#32;wheelthrottle&#32;to&#32;pid:update(time:seconds,&#32;groundspeed).&#10;&#32;&#32;lock&#32;wheelsteering&#32;to&#32;dest:heading.&#10;&#10;&#32;&#32;set&#32;pid:setpoint&#32;to&#32;max(minspeed,&#32;min(maxspeed,&#32;dest:distance&#32;&#47;&#32;5)).&#10;&#10;&#10;&#32;&#32;print&#32;"DEST&#32;LAT:&#32;"&#32;+&#32;round(dest:lat,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at&#32;(5,2).&#10;&#32;&#32;print&#32;"DEST&#32;LNG:&#32;"&#32;+&#32;round(dest:lng,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at&#32;(5,3).&#10;&#32;&#32;print&#32;"CURR&#32;LAT:&#32;"&#32;+&#32;round(ship:geoposition:lat,&#32;3)&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;4).&#10;&#32;&#32;print&#32;"CURR&#32;LNG:&#32;"&#32;+&#32;round(ship:geoposition:lng,&#32;3)&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;5).&#10;&#32;&#32;print&#32;"DIST:&#32;&#32;&#32;&#32;&#32;"&#32;+&#32;round(dest:distance,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;7).&#10;&#32;&#32;print&#32;"BEARING:&#32;&#32;"&#32;+&#32;round(dest:heading,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;8).&#10;&#32;&#32;print&#32;"TGT&#32;SPD:&#32;&#32;"&#32;+&#32;round(pid:setpoint,&#32;3)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at(5,&#32;9).&#10;&#32;&#32;print&#32;"ETA:&#32;&#32;&#32;&#32;&#32;&#32;"&#32;+&#32;eta(dest:distance)&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;+&#32;"&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;"&#32;at&#32;(5,&#32;10).&#10;&#10;&#32;&#32;if&#32;ship:resources[0]:amount&#32;<&#32;0.1&#32;*&#32;ship:resources[0]:capacity&#32;&#123;&#10;&#32;&#32;&#32;&#32;break.&#10;&#32;&#32;&#125;&#10;&#125;&#10;&#10;&#10;unlock&#32;all.&#10;brakes&#32;on.&#10;
 						}
 					}
 				}
@@ -36675,9 +36675,9 @@ GAME
 				attm = 1
 				srfN = srfAttach, 1
 				mass = 0.01
-				temp = 309.240623791601
-				tempExt = 309.217804182636
-				tempExtUnexp = 309.217811270539
+				temp = 309.828922961653
+				tempExt = 309.858664557964
+				tempExtUnexp = 309.858643548539
 				expt = 0
 				state = 0
 				connected = True
@@ -36782,7 +36782,7 @@ GAME
 								Frame = World
 								Orientation = 0,0,0,1
 								Altitude = NaN
-								TimeStamp = 666981.47115943
+								TimeStamp = 667914.969665471
 								ExtraDelay = 0
 								CmdGuid = 2b4d103a-4716-4c6d-bd42-60cc2a417a9d
 							}
@@ -36946,7 +36946,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 0.0299000021629036
+					amount = 1
 					maxAmount = 1
 					flowState = True
 					isTweakable = True
@@ -36977,9 +36977,9 @@ GAME
 				attN = top, -1
 				attN = bottom, 0
 				mass = 0.001
-				temp = 309.237158313632
-				tempExt = 309.211404071877
-				tempExtUnexp = 309.211418046079
+				temp = 309.854367050654
+				tempExt = 310.01778672859
+				tempExtUnexp = 310.017744354142
 				expt = 0.5
 				state = 0
 				connected = True
@@ -37086,9 +37086,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.01
-				temp = 309.238767971882
-				tempExt = 309.211898108911
-				tempExtUnexp = 309.211912948709
+				temp = 309.85413452753
+				tempExt = 309.916782654819
+				tempExtUnexp = 309.916749759327
 				expt = 0.0625
 				state = 0
 				connected = True
@@ -37172,9 +37172,9 @@ GAME
 					name = ModuleCoreHeat
 					isEnabled = True
 					CoreTempGoalAdjustment = 0
-					CoreThermalEnergy = 1957.71898907653
+					CoreThermalEnergy = 2817.19662077913
 					stagingEnabled = True
-					lastUpdateTime = 666981.47115943
+					lastUpdateTime = 667914.969665471
 					EVENTS
 					{
 						ToggleStaging
@@ -37284,9 +37284,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.01
-				temp = 309.238767828906
-				tempExt = 309.211875412297
-				tempExtUnexp = 309.211890415915
+				temp = 309.867001613032
+				tempExt = 309.922832648114
+				tempExtUnexp = 309.922799690056
 				expt = 0.0625
 				state = 0
 				connected = True
@@ -37370,9 +37370,9 @@ GAME
 					name = ModuleCoreHeat
 					isEnabled = True
 					CoreTempGoalAdjustment = 0
-					CoreThermalEnergy = 1957.71898730614
+					CoreThermalEnergy = 3026.87047300069
 					stagingEnabled = True
-					lastUpdateTime = 666981.47115943
+					lastUpdateTime = 667914.969665471
 					EVENTS
 					{
 						ToggleStaging
@@ -37482,9 +37482,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.01
-				temp = 309.238754376349
-				tempExt = 309.211866512549
-				tempExtUnexp = 309.211881521225
+				temp = 309.854057596961
+				tempExt = 309.916914148921
+				tempExtUnexp = 309.916881387848
 				expt = 0.0625
 				state = 0
 				connected = True
@@ -37568,9 +37568,9 @@ GAME
 					name = ModuleCoreHeat
 					isEnabled = True
 					CoreTempGoalAdjustment = 0
-					CoreThermalEnergy = 1957.71898907653
+					CoreThermalEnergy = 2817.19662077913
 					stagingEnabled = True
-					lastUpdateTime = 666981.47115943
+					lastUpdateTime = 667914.969665471
 					EVENTS
 					{
 						ToggleStaging
@@ -37680,9 +37680,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.01
-				temp = 309.238754357951
-				tempExt = 309.211866503734
-				tempExtUnexp = 309.211881512406
+				temp = 309.853804039705
+				tempExt = 309.916624233269
+				tempExtUnexp = 309.916591273642
 				expt = 0.0625
 				state = 0
 				connected = True
@@ -37766,9 +37766,9 @@ GAME
 					name = ModuleCoreHeat
 					isEnabled = True
 					CoreTempGoalAdjustment = 0
-					CoreThermalEnergy = 1957.71898907653
+					CoreThermalEnergy = 2817.19662077913
 					stagingEnabled = True
-					lastUpdateTime = 666981.47115943
+					lastUpdateTime = 667914.969665471
 					EVENTS
 					{
 						ToggleStaging
@@ -37878,9 +37878,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.01
-				temp = 309.23875402396
-				tempExt = 309.211866343713
-				tempExtUnexp = 309.211881352322
+				temp = 309.853821767583
+				tempExt = 309.916632731246
+				tempExtUnexp = 309.916599775059
 				expt = 0.0625
 				state = 0
 				connected = True
@@ -37964,9 +37964,9 @@ GAME
 					name = ModuleCoreHeat
 					isEnabled = True
 					CoreTempGoalAdjustment = 0
-					CoreThermalEnergy = 1957.71898907653
+					CoreThermalEnergy = 2817.19662077913
 					stagingEnabled = True
-					lastUpdateTime = 666981.47115943
+					lastUpdateTime = 667914.969665471
 					EVENTS
 					{
 						ToggleStaging
@@ -38076,9 +38076,9 @@ GAME
 				attN = top, -1
 				attN = bottom, -1
 				mass = 0.01
-				temp = 309.238753962716
-				tempExt = 309.211866314371
-				tempExtUnexp = 309.211881322968
+				temp = 309.853804039705
+				tempExt = 309.916624233269
+				tempExtUnexp = 309.916591273642
 				expt = 0.0625
 				state = 0
 				connected = True
@@ -38162,9 +38162,9 @@ GAME
 					name = ModuleCoreHeat
 					isEnabled = True
 					CoreTempGoalAdjustment = 0
-					CoreThermalEnergy = 1957.71898907653
+					CoreThermalEnergy = 2817.19662077913
 					stagingEnabled = True
-					lastUpdateTime = 666981.47115943
+					lastUpdateTime = 667914.969665471
 					EVENTS
 					{
 						ToggleStaging
@@ -38258,7 +38258,7 @@ GAME
 				Light = False, 0
 				RCS = False, 0
 				SAS = False, 0
-				Brakes = False, 666728.080531754
+				Brakes = True, 667873.089665432
 				Abort = False, 0
 				Custom01 = False, 0
 				Custom02 = False, 0
