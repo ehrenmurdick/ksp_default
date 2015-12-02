@@ -1,55 +1,11 @@
 Executing: KSP-AVC - 1.1.5.0
 Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData/KSP-AVC/KSP-AVC.dll
 
-[Text 06:57:15.9719060]: Starter was created.
-[Text 06:57:17.5993020]: Checking Root: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData
-[Text 06:57:17.6006510]: CheckerProgressGui was created.
-[Text 06:57:18.0050820]: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData/WildBlueIndustries/Pathfinder/Pathfinder.version
-	NAME: Pathfinder
-	URL: https://raw.githubusercontent.com/Angel-125/Pathfinder/master/GameData/WildBlueIndustries/Pathfinder.version
-	DOWNLOAD: https://github.com/Angel-125/Pathfinder/releases
-	GITHUB: Angel-125/Pathfinder
-		LatestRelease: NULL
-		AllowPreRelease: False
-	VERSION: 0.9.2
-	KSP_VERSION: 1.0.5
-	KSP_VERSION_MIN: NULL
-	KSP_VERSION_MAX: NULL
-	CompatibleKspVersion: True
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-[Text 06:57:18.0081600]: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData/TriggerTech/KerbalAlarmClock/KerbalAlarmClock.version
-	NAME: Kerbal Alarm Clock
-	URL: https://raw.githubusercontent.com/TriggerAu/KerbalAlarmClock/master/KerbalAlarmClock/KerbalAlarmClock.version
-	DOWNLOAD: https://github.com/TriggerAu/KerbalAlarmClock/releases
-	GITHUB: NULL
-	VERSION: 3.4
-	KSP_VERSION: 1.0.4
-	KSP_VERSION_MIN: 1.0
-	KSP_VERSION_MAX: 1.0.99
-	CompatibleKspVersion: False
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-
-[Text 06:57:18.0085670]: https://raw.githubusercontent.com/TriggerAu/KerbalAlarmClock/master/KerbalAlarmClock/KerbalAlarmClock.version
-	NAME: Kerbal Alarm Clock
-	URL: https://raw.githubusercontent.com/TriggerAu/KerbalAlarmClock/master/KerbalAlarmClock/KerbalAlarmClock.version
-	DOWNLOAD: https://github.com/TriggerAu/KerbalAlarmClock/releases
-	GITHUB: NULL
-	VERSION: 3.5
-	KSP_VERSION: 1.0.5
-	KSP_VERSION_MIN: 1.0
-	KSP_VERSION_MAX: 1.0.99
-	CompatibleKspVersion: True
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-	UpdateAvailable: False
-
-[Text 06:57:18.0254980]: Identical remote version found: Using remote version information only.
-[Text 06:57:18.0258480]: https://raw.githubusercontent.com/StupidChris/RealChute/master/Output/GameData/RealChute/RealChute.version
+[Text 07:02:01.8067370]: Starter was created.
+[Text 07:02:02.7842180]: Checking Root: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData
+[Text 07:02:02.7858960]: CheckerProgressGui was created.
+[Text 07:02:03.0969380]: Identical remote version found: Using remote version information only.
+[Text 07:02:03.0973790]: https://raw.githubusercontent.com/StupidChris/RealChute/master/Output/GameData/RealChute/RealChute.version
 	NAME: RealChute
 	URL: https://raw.githubusercontent.com/StupidChris/RealChute/master/Output/GameData/RealChute/RealChute.version
 	DOWNLOAD: NULL
@@ -63,8 +19,8 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:18.0651160]: Identical remote version found: Using remote version information only.
-[Text 06:57:18.0651320]: https://raw.githubusercontent.com/snjo/Firespitter/master/For%20release/Firespitter/Firespitter.version
+[Text 07:02:03.1213290]: Identical remote version found: Using remote version information only.
+[Text 07:02:03.1213460]: https://raw.githubusercontent.com/snjo/Firespitter/master/For%20release/Firespitter/Firespitter.version
 	NAME: Firespitter
 	URL: https://raw.githubusercontent.com/snjo/Firespitter/master/For%20release/Firespitter/Firespitter.version
 	DOWNLOAD: NULL
@@ -78,23 +34,22 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:18.1288820]: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData/WildBlueIndustries/Buffalo/Buffalo.version
-	NAME: Buffalo
-	URL: https://raw.githubusercontent.com/Angel-125/Buffalo/master/GameData/WildBlueIndustries/Buffalo.version
-	DOWNLOAD: https://github.com/Angel-125/Buffalo/releases
-	GITHUB: Angel-125/Buffalo
-		LatestRelease: NULL
-		AllowPreRelease: False
-	VERSION: 0.2.2
+[Text 07:02:03.1895870]: Identical remote version found: Using remote version information only.
+[Text 07:02:03.1896060]: https://raw.githubusercontent.com/TriggerAu/KerbalAlarmClock/master/KerbalAlarmClock/KerbalAlarmClock.version
+	NAME: Kerbal Alarm Clock
+	URL: https://raw.githubusercontent.com/TriggerAu/KerbalAlarmClock/master/KerbalAlarmClock/KerbalAlarmClock.version
+	DOWNLOAD: https://github.com/TriggerAu/KerbalAlarmClock/releases
+	GITHUB: NULL
+	VERSION: 3.5
 	KSP_VERSION: 1.0.5
-	KSP_VERSION_MIN: NULL
-	KSP_VERSION_MAX: NULL
+	KSP_VERSION_MIN: 1.0
+	KSP_VERSION_MAX: 1.0.99
 	CompatibleKspVersion: True
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:18.1430630]: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData/CommunityResourcePack/CRP.version
+[Text 07:02:03.2146960]: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData/CommunityResourcePack/CRP.version
 	NAME: Community Resource Pack
 	URL: https://raw.githubusercontent.com/BobPalmer/CommunityResourcePack/master/GameData/CommunityResourcePack/CRP.version
 	DOWNLOAD: https://github.com/BobPalmer/CommunityResourcePack/releases
@@ -110,8 +65,23 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:18.5265100]: Identical remote version found: Using remote version information only.
-[Text 06:57:18.5265320]: https://raw.githubusercontent.com/pellinor0/TweakScale/master/GameData/TweakScale/TweakScale.version
+[Text 07:02:03.2900160]: Identical remote version found: Using remote version information only.
+[Text 07:02:03.2900320]: http://ksp.necrobones.com/files/ModRocketSys/ModularRocketSystems.version
+	NAME: Modular Rocket Systems
+	URL: ModularRocketSystems.version
+	DOWNLOAD: https://kerbalstuff.com/mod/148/Modular%20Rocket%20Systems%20-%20Parts%20Pack
+	GITHUB: NULL
+	VERSION: 1.10.1
+	KSP_VERSION: Any
+	KSP_VERSION_MIN: 1.0.5
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 07:02:03.6436100]: Identical remote version found: Using remote version information only.
+[Text 07:02:03.6436430]: https://raw.githubusercontent.com/pellinor0/TweakScale/master/GameData/TweakScale/TweakScale.version
 	NAME: TweakScale
 	URL: https://raw.githubusercontent.com/pellinor0/TweakScale/master/GameData/TweakScale/TweakScale.version
 	DOWNLOAD: https://kerbalstuff.com/mod/344/TweakScale%20-%20Rescale%20Everything!/download/
@@ -127,8 +97,8 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:18.7427870]: Identical remote version found: Using remote version information only.
-[Text 06:57:18.7428050]: https://raw.githubusercontent.com/ferram4/Kerbal-Joint-Reinforcement/master/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version
+[Text 07:02:03.9193570]: Identical remote version found: Using remote version information only.
+[Text 07:02:03.9193740]: https://raw.githubusercontent.com/ferram4/Kerbal-Joint-Reinforcement/master/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version
 	NAME: Kerbal Joint Reinforcement
 	URL: https://raw.githubusercontent.com/ferram4/Kerbal-Joint-Reinforcement/master/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version
 	DOWNLOAD: https://github.com/ferram4/Kerbal-Joint-Reinforcement/releases
@@ -144,8 +114,40 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:18.8565560]: Identical remote version found: Using remote version information only.
-[Text 06:57:18.8565730]: https://raw.githubusercontent.com/KospY/KIS/master/kis.version
+[Text 07:02:03.9810260]: Identical remote version found: Using remote version information only.
+[Text 07:02:03.9810420]: http://ksp-avc.cybutek.net/version.php?id=136
+	NAME: SETI-Greenhouse
+	URL: http://ksp-avc.cybutek.net/version.php?id=136
+	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/114133
+	GITHUB: NULL
+	VERSION: 0.9.3
+	KSP_VERSION: 1.0.5
+	KSP_VERSION_MIN: 1.0
+	KSP_VERSION_MAX: 1.0.99
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 07:02:04.0128550]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.0128680]: https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version
+	NAME: WildBlueTools
+	URL: https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version
+	DOWNLOAD: https://github.com/Angel-125/WildBlueTools/releases
+	GITHUB: Angel-125/WildBlueTools
+		LatestRelease: 1.0.24
+		AllowPreRelease: False
+	VERSION: 1.0.24
+	KSP_VERSION: 1.0.5
+	KSP_VERSION_MIN: NULL
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 07:02:04.1157750]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.1157960]: https://raw.githubusercontent.com/KospY/KIS/master/kis.version
 	NAME: Kerbal Inventory System
 	URL: https://raw.githubusercontent.com/KospY/KIS/master/kis.version
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/113111
@@ -161,55 +163,8 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:18.9482470]: Identical remote version found: Using remote version information only.
-[Text 06:57:18.9486910]: http://ksp-avc.cybutek.net/version.php?id=136
-	NAME: SETI-Greenhouse
-	URL: http://ksp-avc.cybutek.net/version.php?id=136
-	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/114133
-	GITHUB: NULL
-	VERSION: 0.9.3
-	KSP_VERSION: 1.0.5
-	KSP_VERSION_MIN: 1.0
-	KSP_VERSION_MAX: 1.0.99
-	CompatibleKspVersion: True
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-
-[Text 06:57:18.9603300]: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal Space Program/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version
-	NAME: WildBlueTools
-	URL: https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version
-	DOWNLOAD: https://github.com/Angel-125/WildBlueTools/releases
-	GITHUB: Angel-125/WildBlueTools
-		LatestRelease: NULL
-		AllowPreRelease: False
-	VERSION: 1.0.22
-	KSP_VERSION: 1.0.5
-	KSP_VERSION_MIN: NULL
-	KSP_VERSION_MAX: NULL
-	CompatibleKspVersion: True
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-[Text 06:57:18.9616670]: https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version
-	NAME: WildBlueTools
-	URL: https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version
-	DOWNLOAD: https://github.com/Angel-125/WildBlueTools/releases
-	GITHUB: Angel-125/WildBlueTools
-		LatestRelease: 1.0.24
-		AllowPreRelease: False
-	VERSION: 1.0.24
-	KSP_VERSION: 1.0.5
-	KSP_VERSION_MIN: NULL
-	KSP_VERSION_MAX: NULL
-	CompatibleKspVersion: True
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-	UpdateAvailable: False
-
-[Text 06:57:18.9653860]: Identical remote version found: Using remote version information only.
-[Text 06:57:18.9654000]: https://raw.githubusercontent.com/obivandamme/Workshop/master/GameData/Workshop/Workshop.version
+[Text 07:02:04.1401740]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.1401890]: https://raw.githubusercontent.com/obivandamme/Workshop/master/GameData/Workshop/Workshop.version
 	NAME: OSE Workshop
 	URL: https://raw.githubusercontent.com/obivandamme/Workshop/master/GameData/Workshop/Workshop.version
 	DOWNLOAD: https://github.com/obivandamme/Workshop/releases
@@ -225,8 +180,38 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: False
 
-[Text 06:57:19.1031780]: Identical remote version found: Using remote version information only.
-[Text 06:57:19.1031960]: https://raw.githubusercontent.com/KospY/KAS/master/kas.version
+[Text 07:02:04.2513710]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.2513900]: http://ksp-avc.cybutek.net/version.php?id=99
+	NAME: Editor Extensions
+	URL: http://ksp-avc.cybutek.net/version.php?id=99
+	DOWNLOAD: https://github.com/MachXXV/EditorExtensions/releases/latest
+	GITHUB: NULL
+	VERSION: 2.12
+	KSP_VERSION: 1.0.3
+	KSP_VERSION_MIN: 1.0
+	KSP_VERSION_MAX: 1.0.*
+	CompatibleKspVersion: False
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 07:02:04.2637410]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.2637590]: http://ksp-avc.cybutek.net/version.php?id=27
+	NAME: Chatterer
+	URL: http://ksp-avc.cybutek.net/version.php?id=27
+	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/92324-0-24-2-Chatterer-v-0-6-1-Aug-31-2014
+	GITHUB: NULL
+	VERSION: 0.9.7.86
+	KSP_VERSION: 1.0.5
+	KSP_VERSION_MIN: 1.0
+	KSP_VERSION_MAX: NULL
+	CompatibleKspVersion: True
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 07:02:04.3880380]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.3880680]: https://raw.githubusercontent.com/KospY/KAS/master/kas.version
 	NAME: Kerbal Attachment System
 	URL: https://raw.githubusercontent.com/KospY/KAS/master/kas.version
 	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/92514
@@ -242,70 +227,8 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:19.2589580]: Identical remote version found: Using remote version information only.
-[Text 06:57:19.2589810]: https://raw.githubusercontent.com/RemoteTechnologiesGroup/RemoteTech/master/GameData/RemoteTech/RemoteTech.version
-	NAME: RemoteTech
-	URL: https://raw.githubusercontent.com/RemoteTechnologiesGroup/RemoteTech/master/GameData/RemoteTech/RemoteTech.version
-	DOWNLOAD: https://kerbalstuff.com/mod/134/RemoteTech
-	GITHUB: RemoteTechnologiesGroup/RemoteTech
-		LatestRelease: 1.6.9
-		AllowPreRelease: False
-	VERSION: 1.6.9
-	KSP_VERSION: 1.0.5
-	KSP_VERSION_MIN: 1.0.5
-	KSP_VERSION_MAX: 1.0.5
-	CompatibleKspVersion: True
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-
-[Text 06:57:19.2696700]: Identical remote version found: Using remote version information only.
-[Text 06:57:19.2696860]: http://ksp-avc.cybutek.net/version.php?id=27
-	NAME: Chatterer
-	URL: http://ksp-avc.cybutek.net/version.php?id=27
-	DOWNLOAD: http://forum.kerbalspaceprogram.com/threads/92324-0-24-2-Chatterer-v-0-6-1-Aug-31-2014
-	GITHUB: NULL
-	VERSION: 0.9.7.86
-	KSP_VERSION: 1.0.5
-	KSP_VERSION_MIN: 1.0
-	KSP_VERSION_MAX: NULL
-	CompatibleKspVersion: True
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-
-[Text 06:57:19.3054530]: Identical remote version found: Using remote version information only.
-[Text 06:57:19.3054710]: http://ksp-avc.cybutek.net/version.php?id=99
-	NAME: Editor Extensions
-	URL: http://ksp-avc.cybutek.net/version.php?id=99
-	DOWNLOAD: https://github.com/MachXXV/EditorExtensions/releases/latest
-	GITHUB: NULL
-	VERSION: 2.12
-	KSP_VERSION: 1.0.3
-	KSP_VERSION_MIN: 1.0
-	KSP_VERSION_MAX: 1.0.*
-	CompatibleKspVersion: False
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-
-[Text 06:57:19.4778850]: Identical remote version found: Using remote version information only.
-[Text 06:57:19.4779070]: http://ksp-avc.cybutek.net/version.php?id=2
-	NAME: KSP-AVC Plugin
-	URL: http://ksp-avc.cybutek.net/version.php?id=2
-	DOWNLOAD: http://kerbal.curseforge.com/ksp-mods/220462-ksp-avc-add-on-version-checker
-	GITHUB: NULL
-	VERSION: 1.1.5
-	KSP_VERSION: 0.25
-	KSP_VERSION_MIN: NULL
-	KSP_VERSION_MAX: 1.0.5
-	CompatibleKspVersion: False
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: True
-	CompatibleGitHubVersion: True
-
-[Text 06:57:19.5181020]: Identical remote version found: Using remote version information only.
-[Text 06:57:19.5181230]: https://raw.githubusercontent.com/KSP-KOS/KOS/master/Resources/GameData/kOS/kOS.version
+[Text 07:02:04.5328320]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.5328510]: https://raw.githubusercontent.com/KSP-KOS/KOS/master/Resources/GameData/kOS/kOS.version
 	NAME: kOS
 	URL: https://raw.githubusercontent.com/KSP-KOS/KOS/master/Resources/GameData/kOS/kOS.version
 	DOWNLOAD: TODO - when release...
@@ -321,23 +244,40 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: False
 
-[Text 06:57:19.9926240]: Identical remote version found: Using remote version information only.
-[Text 06:57:19.9926410]: http://ksp.necrobones.com/files/ModRocketSys/ModularRocketSystems.version
-	NAME: Modular Rocket Systems
-	URL: ModularRocketSystems.version
-	DOWNLOAD: https://kerbalstuff.com/mod/148/Modular%20Rocket%20Systems%20-%20Parts%20Pack
-	GITHUB: NULL
-	VERSION: 1.10.1
-	KSP_VERSION: Any
+[Text 07:02:04.5800360]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.5800540]: https://raw.githubusercontent.com/RemoteTechnologiesGroup/RemoteTech/master/GameData/RemoteTech/RemoteTech.version
+	NAME: RemoteTech
+	URL: https://raw.githubusercontent.com/RemoteTechnologiesGroup/RemoteTech/master/GameData/RemoteTech/RemoteTech.version
+	DOWNLOAD: https://kerbalstuff.com/mod/134/RemoteTech
+	GITHUB: RemoteTechnologiesGroup/RemoteTech
+		LatestRelease: 1.6.9
+		AllowPreRelease: False
+	VERSION: 1.6.9
+	KSP_VERSION: 1.0.5
 	KSP_VERSION_MIN: 1.0.5
-	KSP_VERSION_MAX: NULL
+	KSP_VERSION_MAX: 1.0.5
 	CompatibleKspVersion: True
 	CompatibleKspVersionMin: True
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:20.0493830]: Identical remote version found: Using remote version information only.
-[Text 06:57:20.0494040]: http://ksp-avc.cybutek.net/version.php?id=108
+[Text 07:02:04.6717450]: Identical remote version found: Using remote version information only.
+[Text 07:02:04.6717640]: http://ksp-avc.cybutek.net/version.php?id=2
+	NAME: KSP-AVC Plugin
+	URL: http://ksp-avc.cybutek.net/version.php?id=2
+	DOWNLOAD: http://kerbal.curseforge.com/ksp-mods/220462-ksp-avc-add-on-version-checker
+	GITHUB: NULL
+	VERSION: 1.1.5
+	KSP_VERSION: 0.25
+	KSP_VERSION_MIN: NULL
+	KSP_VERSION_MAX: 1.0.5
+	CompatibleKspVersion: False
+	CompatibleKspVersionMin: True
+	CompatibleKspVersionMax: True
+	CompatibleGitHubVersion: True
+
+[Text 07:02:05.1436300]: Identical remote version found: Using remote version information only.
+[Text 07:02:05.1436570]: http://ksp-avc.cybutek.net/version.php?id=108
 	NAME: Universal Storage
 	URL: http://ksp-avc.cybutek.net/version.php?id=108
 	DOWNLOAD: https://kerbalstuff.com/mod/250/Universal%20Storage
@@ -351,26 +291,5 @@ Assembly: /Users/ehren/Library/Application Support/Steam/SteamApps/common/Kerbal
 	CompatibleKspVersionMax: True
 	CompatibleGitHubVersion: True
 
-[Text 06:57:20.2956110]: Identical remote version found: Using remote version information only.
-[Text 06:57:20.2956290]: http://ksp-avc.cybutek.net/version.php?id=181
-	NAME: EVAHandrailsPackContinued
-	URL: http://ksp-avc.cybutek.net/version.php?id=181
-	DOWNLOAD: https://kerbalstuff.com/mod/929/EVA%20Handrails%20Pack%20Continued/download/
-	GITHUB: NULL
-	VERSION: 0.2
-	KSP_VERSION: 1.0.4
-	KSP_VERSION_MIN: 1.0.2
-	KSP_VERSION_MAX: 1.0.4
-	CompatibleKspVersion: False
-	CompatibleKspVersionMin: True
-	CompatibleKspVersionMax: False
-	CompatibleGitHubVersion: True
-
-[Text 06:57:26.7238270]: IssueGui was created.
-[Text 06:57:26.7253270]: Starter was destroyed.
-[Text 06:57:26.7262400]: CheckerProgressGui was destroyed.
-[Text 06:57:26.7548110]: ToolTipGui was created.
-[Text 06:57:26.7564070]: ToolTipGui was created.
-[Text 06:58:36.8063880]: IssueGui was destroyed.
-[Text 06:58:36.8089000]: ToolTipGui was destroyed.
-[Text 06:58:36.8089210]: ToolTipGui was destroyed.
+[Text 07:02:05.9265060]: Starter was destroyed.
+[Text 07:02:05.9274840]: CheckerProgressGui was destroyed.

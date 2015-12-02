@@ -11,8 +11,8 @@ local dest is latlng(location:lat + destLat, location:lng + destlng).
 local pid is pidloop().
 local runmode is 0.
 
-local minspeed is 0.5.
-local maxspeed is 8.
+local minspeed is 1.
+local maxspeed is 4.
 
 
 set pid:maxoutput to 1.
@@ -27,6 +27,7 @@ function eta {
 
   return round(seconds, 1) + "s".
 }
+
 
 until dest:distance < tolerance {
   lock wheelthrottle to pid:update(time:seconds, groundspeed).
@@ -43,6 +44,10 @@ until dest:distance < tolerance {
   print "BEARING:  " + round(dest:heading, 3)         + "            " at(5, 8).
   print "TGT SPD:  " + round(pid:setpoint, 3)         + "            " at(5, 9).
   print "ETA:      " + eta(dest:distance)             + "            " at (5, 10).
+
+  if ship:resources[0]:amount < 0.1 * ship:resources[0]:capacity {
+    break.
+  }
 }
 
 
