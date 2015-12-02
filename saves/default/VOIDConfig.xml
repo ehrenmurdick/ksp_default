@@ -42,8 +42,8 @@
     <bool name="VOID_EditorHUD_EDITOR_positionsLocked">1</bool>
     <bool name="VOID_EditorHUD_EDITOR_Active">1</bool>
     <rect name="VOID_EditorHUD_editorHUD">
-        <xmin>308</xmin>
-        <xmax>608</xmax>
+        <xmin>274</xmin>
+        <xmax>574</xmax>
         <ymin>125</ymin>
         <ymax>199</ymax>
     </rect>
@@ -98,7 +98,7 @@
         <xmin>840</xmin>
         <xmax>1140</xmax>
         <ymin>0</ymin>
-        <ymax>104</ymax>
+        <ymax>119</ymax>
     </rect>
     <bool name="VOID_Orbital_FLIGHT_toggleExtended">0</bool>
     <long name="VOID_Orbital_FLIGHT_precisionValues">384307168202282325</long>

@@ -10,7 +10,7 @@ GAME
 	scene = 5
 	editor = None
 	flag = Squad/Flags/default
-	launchID = 7
+	launchID = 8
 	PARAMETERS
 	{
 		preset = Normal
@@ -427,8 +427,8 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 1.0.5
-		UT = 653091.355881313
-		activeVessel = 0
+		UT = 666221.260531282
+		activeVessel = -1
 		mapViewFiltering = -1026
 		VESSEL
 		{
