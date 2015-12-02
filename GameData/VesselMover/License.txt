@@ -1,0 +1,6 @@
+This KSP Addon is distributed under the GPL v3 license.
+
+http://www.gnu.org/licenses/gpl-3.0.en.html
+
+Author: Paolo Encarnacion (BahamutoD)
+Source: https://github.com/BahamutoD/VesselMover

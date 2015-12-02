@@ -1,0 +1,39 @@
+v1.2.0
+- Part mass scales with size
+- Part cost scales with size
+- Placed each gear in proper tech nodes
+- Drag eliminated when retracted (stock aero)
+- Reverted small particle texture to png
+
+v1.1.1
+- Fixed sound file path for small landing gear
+- Removed invisible box (FAR voxel is now correct)
+- Changed steering to wheelSteer instead of yaw
+- Converted textures to DDS format
+
+v1.1.0
+- KSP 1.0+ Compatibility
+- Added large gear set
+- Forked FSWheel and related classes (Firespitter no longer required)
+- Added brake torque tweakable
+- Added part scale tweakable
+- Fixed reversed motor issue
+- Smoothed steering
+- Fixed steering direction based on location on vessel
+- Other bugfixes
+
+
+v1.0.4
+- Fixed doors on small gear wouldn't close
+
+v1.0.3
+- Removed debug labels from BDAdjustableLandingGear
+
+v1.0.2
+- Fixed motor becoming broken after retracting wheel.
+
+v1.0.1
+- Set "useCustomParticleFX = true" in bdAdjLGside.cfg
+
+v1.0.0
+- Initial release

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileVersion>2.12.5652.24831</FileVersion>
+  <KeyMap>
+    <ResetCamera>Space</ResetCamera>
+    <ZoomSelected>KeypadPeriod</ZoomSelected>
+    <AttachmentMode>T</AttachmentMode>
+    <PartClipping>Z</PartClipping>
+    <VerticalSnap>V</VerticalSnap>
+    <HorizontalSnap>H</HorizontalSnap>
+    <CompoundPartAlign>U</CompoundPartAlign>
+  </KeyMap>
+  <AngleSnapValues>
+    <float>0</float>
+    <float>15</float>
+    <float>30</float>
+    <float>45</float>
+    <float>90</float>
+  </AngleSnapValues>
+  <MaxSymmetry>8</MaxSymmetry>
+  <ShowDebugInfo>true</ShowDebugInfo>
+  <OnScreenMessageTime>1.5</OnScreenMessageTime>
+</ConfigData>

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <int name="VOIDCore_SpaceCentre_configValue">2</int>
+    <bool name="VOIDCore_SpaceCentre_useToolbarManager">0</bool>
+    <bool name="VOIDCore_SpaceCentre_togglePower">1</bool>
+    <bool name="VOIDCore_SpaceCentre_consumeResource">0</bool>
+    <string name="VOIDCore_SpaceCentre_resourceName">ElectricCharge</string>
+    <double name="VOIDCore_SpaceCentre_updatePeriod">0.0667333333333333</double>
+    <bool name="VOIDCore_SpaceCentre_vesselSimActive">1</bool>
+    <string name="VOIDCore_SpaceCentre_defaultSkin">KSP window 2</string>
+    <rect name="VOIDCore_SpaceCentre_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>469.3105</ymax>
+    </rect>
+    <bool name="VOIDCore_SpaceCentre_Active">0</bool>
+    <rect name="VOID_ConfigWindow_SPACECENTER_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>428</ymax>
+    </rect>
+    <bool name="VOID_ConfigWindow_SPACECENTER_Active">0</bool>
+    <int name="VOIDCore_Editor_configValue">2</int>
+    <bool name="VOIDCore_Editor_useToolbarManager">0</bool>
+    <bool name="VOIDCore_Editor_togglePower">1</bool>
+    <bool name="VOIDCore_Editor_consumeResource">0</bool>
+    <string name="VOIDCore_Editor_resourceName">ElectricCharge</string>
+    <double name="VOIDCore_Editor_updatePeriod">0.0667333333333333</double>
+    <bool name="VOIDCore_Editor_vesselSimActive">1</bool>
+    <string name="VOIDCore_Editor_defaultSkin">KSP window 2</string>
+    <rect name="VOIDCore_Editor_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>511.2422</ymax>
+    </rect>
+    <bool name="VOIDCore_Editor_Active">0</bool>
+    <bool name="VOID_EditorHUD_EDITOR_snapToLeft">1</bool>
+    <int name="VOID_EditorHUD_EDITOR_colorIndex">0</int>
+    <bool name="VOID_EditorHUD_EDITOR_positionsLocked">1</bool>
+    <bool name="VOID_EditorHUD_EDITOR_Active">1</bool>
+    <rect name="VOID_EditorHUD_editorHUD">
+        <xmin>308</xmin>
+        <xmax>608</xmax>
+        <ymin>125</ymin>
+        <ymax>199</ymax>
+    </rect>
+    <rect name="VOID_TWR_EDITOR_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>428</ymax>
+    </rect>
+    <bool name="VOID_TWR_EDITOR_Active">0</bool>
+    <int name="VOID_StageInfo_EDITOR_bodyIdx">4</int>
+    <bool name="VOID_StageInfo_EDITOR_UseSealLevel">0</bool>
+    <rect name="VOID_StageInfo_EDITOR_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>428</ymax>
+    </rect>
+    <bool name="VOID_StageInfo_EDITOR_Active">0</bool>
+    <rect name="VOID_ConfigWindow_EDITOR_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>428</ymax>
+    </rect>
+    <bool name="VOID_ConfigWindow_EDITOR_Active">0</bool>
+    <int name="VOIDCore_Flight_configValue">2</int>
+    <bool name="VOIDCore_Flight_useToolbarManager">0</bool>
+    <bool name="VOIDCore_Flight_togglePower">1</bool>
+    <bool name="VOIDCore_Flight_consumeResource">0</bool>
+    <string name="VOIDCore_Flight_resourceName">ElectricCharge</string>
+    <double name="VOIDCore_Flight_updatePeriod">0.0667333333333333</double>
+    <bool name="VOIDCore_Flight_vesselSimActive">1</bool>
+    <string name="VOIDCore_Flight_defaultSkin">KSP window 2</string>
+    <rect name="VOIDCore_Flight_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>773.0371</ymax>
+    </rect>
+    <bool name="VOIDCore_Flight_Active">0</bool>
+    <int name="VOID_HUD_FLIGHT_colorIndex">0</int>
+    <bool name="VOID_HUD_FLIGHT_positionsLocked">1</bool>
+    <bool name="VOID_HUD_FLIGHT_Active">1</bool>
+    <rect name="VOID_HUD_leftHUD">
+        <xmin>204</xmin>
+        <xmax>504</xmax>
+        <ymin>0</ymin>
+        <ymax>90</ymax>
+    </rect>
+    <rect name="VOID_HUD_rightHUD">
+        <xmin>840</xmin>
+        <xmax>1140</xmax>
+        <ymin>0</ymin>
+        <ymax>104</ymax>
+    </rect>
+    <bool name="VOID_Orbital_FLIGHT_toggleExtended">0</bool>
+    <long name="VOID_Orbital_FLIGHT_precisionValues">384307168202282325</long>
+    <rect name="VOID_Orbital_FLIGHT_WindowPos">
+        <xmin>824</xmin>
+        <xmax>1074</xmax>
+        <ymin>250</ymin>
+        <ymax>300</ymax>
+    </rect>
+    <bool name="VOID_Orbital_FLIGHT_Active">0</bool>
+    <long name="VOID_SurfAtmo_FLIGHT_precisionValues">384307168202282325</long>
+    <rect name="VOID_SurfAtmo_FLIGHT_WindowPos">
+        <xmin>1084</xmin>
+        <xmax>1334</xmax>
+        <ymin>85</ymin>
+        <ymax>135</ymax>
+    </rect>
+    <bool name="VOID_SurfAtmo_FLIGHT_Active">0</bool>
+    <rect name="VOID_VesselInfo_FLIGHT_WindowPos">
+        <xmin>1084</xmin>
+        <xmax>1334</xmax>
+        <ymin>450</ymin>
+        <ymax>500</ymax>
+    </rect>
+    <bool name="VOID_VesselInfo_FLIGHT_Active">0</bool>
+    <rect name="VOID_Transfer_FLIGHT_WindowPos">
+        <xmin>475</xmin>
+        <xmax>725</xmax>
+        <ymin>85</ymin>
+        <ymax>135</ymax>
+    </rect>
+    <bool name="VOID_Transfer_FLIGHT_Active">0</bool>
+    <int name="VOID_CBInfoBrowser_FLIGHT_selectedBodyIdx1">1</int>
+    <int name="VOID_CBInfoBrowser_FLIGHT_selectedBodyIdx2">2</int>
+    <bool name="VOID_CBInfoBrowser_FLIGHT_toggleOrbital">0</bool>
+    <bool name="VOID_CBInfoBrowser_FLIGHT_togglePhysical">0</bool>
+    <bool name="VOID_CBInfoBrowser_FLIGHT_toggleScience">0</bool>
+    <rect name="VOID_CBInfoBrowser_FLIGHT_WindowPos">
+        <xmin>10</xmin>
+        <xmax>260</xmax>
+        <ymin>85</ymin>
+        <ymax>135</ymax>
+    </rect>
+    <bool name="VOID_CBInfoBrowser_FLIGHT_Active">0</bool>
+    <bool name="VOID_Rendezvous_FLIGHT_untoggleRegisterInfo">0</bool>
+    <bool name="VOID_Rendezvous_FLIGHT_toggleExtendedOrbital">0</bool>
+    <rect name="VOID_Rendezvous_FLIGHT_WindowPos">
+        <xmin>845</xmin>
+        <xmax>1095</xmax>
+        <ymin>85</ymin>
+        <ymax>135</ymax>
+    </rect>
+    <bool name="VOID_Rendezvous_FLIGHT_Active">0</bool>
+    <int name="VOID_VesselRegister_FLIGHT_selectedBodyIdx">0</int>
+    <int name="VOID_VesselRegister_FLIGHT_selectedVesselTypeIdx">0</int>
+    <rect name="VOID_VesselRegister_FLIGHT_WindowPos">
+        <xmin>845</xmin>
+        <xmax>1095</xmax>
+        <ymin>275</ymin>
+        <ymax>325</ymax>
+    </rect>
+    <bool name="VOID_VesselRegister_FLIGHT_Active">0</bool>
+    <bool name="VOID_DataLogger_FLIGHT_waitForLaunch">1</bool>
+    <rect name="VOID_DataLogger_FLIGHT_WindowPos">
+        <xmin>824</xmin>
+        <xmax>1074</xmax>
+        <ymin>85</ymin>
+        <ymax>135</ymax>
+    </rect>
+    <bool name="VOID_DataLogger_FLIGHT_Active">0</bool>
+    <int name="VOID_HUDAdvanced_FLIGHT_colorIndex">0</int>
+    <bool name="VOID_HUDAdvanced_FLIGHT_positionsLocked">1</bool>
+    <bool name="VOID_HUDAdvanced_FLIGHT_Active">1</bool>
+    <rect name="VOID_HUDAdvanced_leftHUD">
+        <xmin>180</xmin>
+        <xmax>480</xmax>
+        <ymin>556</ymin>
+        <ymax>646</ymax>
+    </rect>
+    <rect name="VOID_TWR_FLIGHT_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>428</ymax>
+    </rect>
+    <bool name="VOID_TWR_FLIGHT_Active">0</bool>
+    <int name="VOID_StageInfo_FLIGHT_bodyIdx">4</int>
+    <bool name="VOID_StageInfo_FLIGHT_UseSealLevel">0</bool>
+    <rect name="VOID_StageInfo_FLIGHT_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>428</ymax>
+    </rect>
+    <bool name="VOID_StageInfo_FLIGHT_Active">0</bool>
+    <rect name="VOID_ConfigWindow_FLIGHT_WindowPos">
+        <xmin>672</xmin>
+        <xmax>922</xmax>
+        <ymin>378</ymin>
+        <ymax>428</ymax>
+    </rect>
+    <bool name="VOID_ConfigWindow_FLIGHT_Active">0</bool>
+</config>
